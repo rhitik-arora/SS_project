@@ -29,7 +29,7 @@ struct mnemonics{
 	string binary;
 	int size;
 }mot[13];
-
+//struct
 struct symbol{ //Symbol Table format
 	string name;
 	string type;
