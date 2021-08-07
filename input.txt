@@ -16,4 +16,4 @@ L1:		LOADI
 		ADDI 4
 		JMP L1
 L2:		STORE sum
-		STOP
+		STOP 
