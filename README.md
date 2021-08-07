@@ -32,5 +32,4 @@ Data Structures:
 2. File Stream
 
 Thank You.
-For any queries you can mail me at: krishna.dduc@gmail.com
   
